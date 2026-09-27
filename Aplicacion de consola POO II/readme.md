@@ -1,5 +1,4 @@
 # Aplicacion de consola POO II
-# Aplicación de Consola POO II
 
 ## 📋 Consigna y Pautas del Proyecto
 
